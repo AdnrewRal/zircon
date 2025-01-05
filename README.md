@@ -1,8 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/zircon-ac0b5.appspot.com/o/zircon-og.png?alt=media&token=13867ad8-795e-4c7d-ae89-08b4bd253a5e">
-<div align="center">
-  <img src="https://badgen.net/badge/version/beta/pink">
-  <img src="https://badgen.net/badge/contributions/open/pink">
-</div>
+
 <h1 align="center">Zircon</h1>
 <div align="center">
   <h3>The Developer Dojo for Solana.</h3>
